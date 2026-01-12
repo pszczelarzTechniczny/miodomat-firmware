@@ -1,0 +1,8 @@
+{
+  "project": "miodomat",
+  "target": "esp32s3",
+  "version": "0.0.0",
+  "bin_url": "",
+  "sha256": "",
+  "size": 0
+}
